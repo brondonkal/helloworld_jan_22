@@ -1,2 +1,3 @@
-# helloworld_jan_22
-first devopps project
+# maven-project
+
+Simple Maven Project
